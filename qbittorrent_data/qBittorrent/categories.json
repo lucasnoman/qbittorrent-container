@@ -1,0 +1,11 @@
+{
+    "livros": {
+        "save_path": ""
+    },
+    "radarr": {
+        "save_path": ""
+    },
+    "sonarr": {
+        "save_path": ""
+    }
+}
