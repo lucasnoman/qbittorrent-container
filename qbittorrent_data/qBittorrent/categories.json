@@ -1,11 +1,14 @@
 {
-    "livros": {
+    "animes": {
         "save_path": ""
     },
-    "radarr": {
+    "books": {
         "save_path": ""
     },
-    "sonarr": {
+    "movies": {
+        "save_path": "movies"
+    },
+    "series": {
         "save_path": ""
     }
 }
