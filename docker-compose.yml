@@ -10,7 +10,7 @@ services:
       - TORRENTING_PORT=6881
     volumes:
       - ${CONFIG_PATH}/qbittorrent_data:/config
-      - ${TORRENT_PATH}:/downloads # optional
+      - ${HOST_PATH}:${CONTAINER_PATH}
     ports:
       - 8080:8080
       - 6881:6881
